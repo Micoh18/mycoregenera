@@ -215,7 +215,7 @@ La plataforma esta desplegada en Vercel con el directorio raiz configurado en `/
 
 ## Licencia
 
-Proyecto construido para el [Stellar Community Fund](https://communityfund.stellar.org/).
+Proyecto construido para Ideathon de tellus.
 
 ---
 
